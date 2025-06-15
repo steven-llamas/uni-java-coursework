@@ -1,6 +1,4 @@
-/* Course: CS 460 Mobile Application Development
-Module: 6. Binding, Sorting, & Searching       Contact.java, Represents a phone contact.
-To be used with PhoneList.java (m6-p3.java)   */ 
+
 public class Contact implements Comparable<Contact>
 {
     private String firstName, lastName, phone; // Constructor: Sets up contact with specified data.
