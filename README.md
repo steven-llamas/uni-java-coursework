@@ -8,3 +8,4 @@ This repository contains Java programming coursework completed during my univers
 - **Object-Oriented Programming (OOP)**
 - **Data Structures (Arrays, Lists, HashMaps, etc.)**
 - **Exception Handling and Debugging**
+- **JavaFX GUI Development**: Building interactive graphical user interfaces using JavaFX.
