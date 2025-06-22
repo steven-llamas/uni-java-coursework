@@ -1,0 +1,5 @@
+SendTextMsg/config.py
+SendTextMsg/__pycache__/
+.env
+**/Pipfile.lock
+Pipfile.lock
